@@ -12,7 +12,7 @@ This project focuses on predicting employee attrition using various machine lear
   - Feature selection
   - Model training and evaluation
 - `README.md` – You're reading it 🙂
-- `requirements.txt` – Coming soon!
+- `requirements.txt` – updated
 
 ---
 
