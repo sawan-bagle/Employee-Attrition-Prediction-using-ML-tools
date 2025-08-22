@@ -6,7 +6,7 @@ This project focuses on predicting employee attrition using various machine lear
 
 ## 📁 Project Structure
 
-- `EAP.ipynb` – Jupyter Notebook containing complete code for:
+- `E-A-P.ipynb` – Jupyter Notebook containing complete code for:
   - Data preprocessing
   - Visualization
   - Feature selection
