@@ -28,10 +28,10 @@ This project focuses on predicting employee attrition using various machine lear
 ## 🛠️ ML Models Used
 
 - Logistic Regression
-- Random Forest
+
 - Decision Tree
 - K-Nearest Neighbors (KNN)
-- Support Vector Machine (SVM)
+
 
 ---
 
@@ -46,7 +46,7 @@ This project focuses on predicting employee attrition using various machine lear
 ## 🔍 Key Observations
 
 - Features like **OverTime**, **JobSatisfaction**, and **MonthlyIncome** significantly influence attrition.
-- Random Forest performed best on this dataset in terms of accuracy.
+- Decision Tree performed best on this dataset in terms of accuracy.
 
 ---
 
